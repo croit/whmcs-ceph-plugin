@@ -1,4 +1,9 @@
-Installation Instructions
+## Disclaimer
+Please note that this free WHMCS plugin is offered without any support from croit.
+Unfortunately, our technical support cannot offer WHMCS support.
+Furthermore, you should customize this plugin to your needs and check it before use.
+
+## Installation Instructions
 
 1.Upload (calculate_uploaded.php)  file into your (WHMCS rootdirectory/crons/).
 
